@@ -1,0 +1,31 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:43:32: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                if(s.charAt(i) != "a" && s.charAt(i) != "A"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:43:54: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                if(s.charAt(i) != "a" && s.charAt(i) != "A"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:44:32: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                && s.charAt(i) != "e" && s.charAt(i) != "E"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:44:54: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                && s.charAt(i) != "e" && s.charAt(i) != "E"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:45:32: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                && s.charAt(i) != "i" && s.charAt(i) != "I"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:45:54: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                && s.charAt(i) != "i" && s.charAt(i) != "I"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:46:32: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                && s.charAt(i) != "o" && s.charAt(i) != "O"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:46:54: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                && s.charAt(i) != "o" && s.charAt(i) != "O"[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:47:32: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                && s.charAt(i) != "u" && s.charAt(i) != "U"){[0m
+[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/1L5_resolução/5.3/src/main/scala/5.3.scala:47:54: comparing values of types Char and String using `!=' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                && s.charAt(i) != "u" && s.charAt(i) != "U"){[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m10 warnings found[0m
